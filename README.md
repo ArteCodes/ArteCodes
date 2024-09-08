@@ -1,7 +1,5 @@
-- 👋 Hi, I’m Edson - @ArteCodes
+- 👋 Hi, I’m Edson! - @ArteCodes
 - 👀 I’m interested in Trabalhar com programação
-- 🌱 I’m currently learning JAVA, C#, PHP, HTML, e CSS
-- 📫 How to reach me: email - Edsonsoliveirajunior@gmail.com
 - ⚡ Fun fact: I'm studying Computer Science at Uninassau College
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
