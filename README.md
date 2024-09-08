@@ -1,11 +1,11 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=055b00&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=010A26&height=120&section=header"/>
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=dbffbd&size=35&center=true&vCenter=true&width=1000&lines=HI,+MY+NAME+is+Edson+Souza+Oliveira;I'm+18+years+old;I+am+from+Aracaju,+SE;I+study+computer+cience+at+UNINASSAU;Be+Welcome+here!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F2BD1D&size=35&center=true&vCenter=true&width=1000&lines=HI,+MY+NAME+is+Edson+Souza+Oliveira;I'm+18+years+old;I+am+from+Aracaju,+SE;I+study+computer+cience+at+UNINASSAU;Be+Welcome+here!+:%29)](https://git.io/typing-svg)
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ArteCodes&show_icons=true&count_private=true&hide_border=true&title_color=dbffbd&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Edson ArteCodes github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArteCodes&layout=compact&hide_border=true&title_color=dbffbd&text_color=dbffbd&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ArteCodes&show_icons=true&count_private=true&hide_border=true&title_color=A66832&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Edson ArteCodes github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArteCodes&layout=compact&hide_border=true&title_color=A66832&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
 
@@ -36,7 +36,7 @@
   <a href = "Edsonsoliveirajunior@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div> 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=055b00&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=010A26&height=120&section=footer"/>
 <!--
   grafico de commites:
     [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ArteCodes&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
