@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=272F40&height=120&section=header"/>
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F29B30&size=35&center=true&vCenter=true&width=1000&lines=HI,+MY+NAME+is+Edson+Souza+Oliveira;I'm+18+years+old;I+am+from+Aracaju,+SE;I+study+computer+cience+at+UNINASSAU;Be+Welcome+here!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F29B30&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Edson+Souza+Oliveira;I'm+18+years+old;I+am+from+Aracaju,+SE;I+study+computer+cience+at+UNINASSAU;Be+Welcome+here!+:%29)](https://git.io/typing-svg)
 
 
 <div align="center">  
@@ -38,30 +38,3 @@
 </div> 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=272F40&height=120&section=footer"/>
-<!--
-  grafico de commites:
-    [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ArteCodes&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-  contagem de visitantes:
-  <div align="center">
-    <br><p align="centre"><b>Visitors Count</b></p>  
-    <p align="center"><img align="center" src="https://profile-counter.glitch.me/{ArteCodes}/count.svg" /></p> 
-  <br></div>
-  
-  redes sociais:
-    <a href="https://www.youtube.com/channel" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-      <a href="https://instagram.com/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-        <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-          <a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-          
-  conhecimentos extras: 
-    ![Atom](https://img.shields.io/badge/-atom-0D1117?style=for-the-badge&logo=atom&logoColor=90ee90&labelColor=0D1117)&nbsp;
-      ![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
-        ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
-          ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-            ![Handlebars](https://img.shields.io/badge/-handlebars-0D1117?style=for-the-badge&logo=handlebars&labelColor=0D1117)&nbsp;
-               <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-criditos no modelo editado:
-https://github.com/MthAlvarez/MthAlvarez
-https://github.com/rafaballerini/rafaballerini
--->
